@@ -32,4 +32,9 @@
             <h5 class="text-xs">My Site</h5>
             <p>2022</p>
         </footer>
+        {{--Modal--}}
+        <div class="bg-white p-4 shadow-md p-4">
+
+            <p>I Am a modal</p>
+        </div>
 </x-layout>
